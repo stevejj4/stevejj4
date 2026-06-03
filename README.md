@@ -21,9 +21,9 @@
 - 🧠 I translate **business requirements into technical systems**
 - 📝 Experienced in **requirement gathering, user stories, and stakeholder collaboration**
 - ⚙️ I design and deliver **end-to-end systems (frontend → backend → data → insights)**
-- ☁️ I work with **AWS & Google Cloud (BigQuery, Pub/Sub, Dataflow)**
+- ☁️ I work with **Google Cloud (BigQuery, Pub/Sub, Dataflow)**
 - 📊 I turn raw data into **actionable insights for decision-making**
-- 🚀 Currently building toward **Mtaani Group (data-driven solutions for real-world businesses)**
+- 🚀 Currently building toward **Mtaanisoft (data-driven and AI solutions for real-world businesses)**
 
 ---
 
