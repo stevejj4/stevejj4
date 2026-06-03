@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="linkedin.com/in/stephen-juma-643211289">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/YOUR_USERNAME">
@@ -150,8 +150,8 @@ Provides data-driven decision-making for welfare groups, SACCOs, or businesses r
 
 ## 📫 Contact
 
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 📧 Email: jumaomondi16@gmail.com  
+- 💼 LinkedIn: linkedin.com/in/stephen-juma-643211289  
 - 🌍 Portfolio: coming soon 🚀  
 
 ---
