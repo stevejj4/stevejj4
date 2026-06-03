@@ -54,7 +54,6 @@
 
 ### ☁️ Cloud & Big Data
 ![Google Cloud](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=googlecloud)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 ![BigQuery](https://img.shields.io/badge/BigQuery-lightblue?style=for-the-badge)
 
 - Distributed data systems
@@ -109,12 +108,14 @@
 
 ---
 
-### 📌 Customer Interaction Analytics System (Cafe Rewards)
-- Analyzed multi-channel customer interactions (calls, emails, visits)
+### 📌 Customer Payment Analytics M-Pesa Paybill (Machine Learning)
+- Analyzed customer payments 
 - Delivered insights on:
-  - Customer satisfaction
-  - Peak engagement times
-  - Service efficiency
+- Enables real-time monitoring of Paybill collections.
+- Improves customer insights (who pays on time, who defaults).
+- Supports financial planning by forecasting revenue streams.
+
+Provides data-driven decision-making for welfare groups, SACCOs, or businesses relying on M-Pesa.
 - Built dashboards using Power BI + BigQuery + Python
 
 ---
