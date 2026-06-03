@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="linkedin.com/in/stephen-juma-643211289">
+  <a href="https://www.linkedin.com/in/stephen-juma-643211289/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4zNolIUzShKEtkb6HpXlTw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/YOUR_USERNAME">
