@@ -5,16 +5,12 @@
 </p>
 
 <p align="center">
-  I build end-to-end systems — from requirements → backend → data pipelines → insights → user-facing dashboards.
+  I build end-to-end systems — from requirements to → data pipelines in the backend for → insights in user-facing dashboards.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/stephen-juma-643211289/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4zNolIUzShKEtkb6HpXlTw%3D%3D">
+  <a href="https://www.linkedin.com/in/stephen-juma-643211289/?l">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-  </a>
 </p>
 
 ---
@@ -151,8 +147,7 @@ Provides data-driven decision-making for welfare groups, SACCOs, or businesses r
 ## 📫 Contact
 
 - 📧 Email: jumaomondi16@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/stephen-juma-643211289  
-- 🌍 Portfolio: coming soon 🚀  
+- 💼 LinkedIn: Click link at the top
 
 ---
 
