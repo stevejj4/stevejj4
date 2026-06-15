@@ -1,156 +1,206 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Stephen Juma</h1>
 
 <p align="center">
-  Data Engineer | Backend Engineer | Systems & Data Platform Builder
+  <strong>Systems Engineer | Data Engineer | Backend Engineer</strong>
 </p>
 
 <p align="center">
-  I build end-to-end systems — from requirements to → data pipelines in the backend for → insights in user-facing dashboards.
+  Building software systems, data platforms, and analytics solutions that help businesses make better decisions.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/stephen-juma-643211289/?l">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/stephen-juma-643211289/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🔭 I build **data pipelines, backend systems, and analytics platforms**
-- 🧠 I translate **business requirements into technical systems**
-- 📝 Experienced in **requirement gathering, user stories, and stakeholder collaboration**
-- ⚙️ I design and deliver **end-to-end systems (frontend → backend → data → insights)**
-- ☁️ I work with **Google Cloud (BigQuery, Pub/Sub, Dataflow)**
-- 📊 I turn raw data into **actionable insights for decision-making**
-- 🚀 Currently building toward **Mtaanisoft (data-driven and AI solutions for real-world businesses)**
+I am a Systems Engineer focused on designing and building end-to-end business solutions.
 
----
+My work spans:
 
-## 🧠 Technical Skills
+- Backend Engineering
+- Data Engineering
+- Analytics Engineering
+- System Design
+- Requirements Engineering
+- Cloud Data Platforms
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+I enjoy translating business problems into scalable technical solutions.
 
----
+Currently building:
 
-### ⚙️ Data Engineering & Backend
-![Apache Spark](https://img.shields.io/badge/Spark-orange?style=for-the-badge&logo=apachespark)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-purple?style=for-the-badge)
-
-- Data ingestion & transformation pipelines
-- Batch & real-time data processing systems
-- API development and backend service design
+- Enterprise Java applications with Spring Boot
+- Data platforms using Python, Spark, BigQuery, and PostgreSQL
+- Analytics and reporting solutions
+- Mtaanisoft — helping African businesses achieve digital transformation through software and data
 
 ---
 
-### ☁️ Cloud & Big Data
-![Google Cloud](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=googlecloud)
-![BigQuery](https://img.shields.io/badge/BigQuery-lightblue?style=for-the-badge)
+## 🛠 Technology Stack
 
-- Distributed data systems
-- Real-time streaming pipelines
-- Cloud-based data warehouses
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### Backend Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Key Areas**
+
+- Clean Architecture
+- Domain Driven Design
+- API Development
+- Authentication & Authorization
+- Database Design
+- Enterprise Application Development
+
+### Data Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Modeling-blue?style=for-the-badge" />
+</p>
+
+**Key Areas**
+
+- Data Pipelines
+- Batch Processing
+- Real-Time Processing
+- Data Warehousing
+- Data Quality & Governance
+
+### Cloud & Big Data
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PubSub-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+**Capabilities**
+
+- Admin Portals
+- Dashboards
+- API Integration
+- Responsive Interfaces
 
 ---
 
-### 🌐 Frontend & Testing
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![System Testing](https://img.shields.io/badge/System%20Testing-green?style=for-the-badge)
+## 🌟 Featured Projects
 
-- Built React + TypeScript dashboards and admin systems
-- Integrated REST APIs using Axios
-- Focus on system reliability through testing and validation
+### 📌 Insurance Data Platform
 
----
+Designed and built an end-to-end insurance analytics platform supporting:
 
-### 🧠 Product & Engineering Skills
-![Requirement Gathering](https://img.shields.io/badge/Requirement--Gathering-blue?style=for-the-badge)
-![User Stories](https://img.shields.io/badge/User--Stories-purple?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-black?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-orange?style=for-the-badge)
+- Claims Analytics
+- Risk Scoring
+- Customer Segmentation
+- Predictive Modeling
 
-- Requirement gathering from stakeholders and users
-- Writing user stories and defining acceptance criteria
-- Translating business needs into system architecture
+**Tech Stack:** Python, Spark, SQL, BigQuery, Power BI
 
 ---
 
-## 🚀 Featured Projects
+### 📌 Real-Time Analytics Platform
 
-### 📌 Insurance Data Engineering Platform
-- Built a scalable **end-to-end data pipeline system**
-- Integrated multiple data sources into a unified warehouse
-- Supported:
-  - Risk analysis
-  - Customer segmentation
-  - Claim prediction
-- Technologies: Python, SQL, Spark, Machine Learning
+Built streaming pipelines using:
 
----
+- Google Pub/Sub
+- Dataflow
+- BigQuery
 
-### 📌 Real-Time Data Processing Pipeline (GCP)
-- Designed streaming architecture using:
-  - Pub/Sub
-  - Dataflow
-  - BigQuery
-- Enabled real-time analytics and decision-making
-- Integrated ML models for predictive insights
+Delivered real-time insights and operational dashboards.
 
 ---
 
-### 📌 Customer Payment Analytics M-Pesa Paybill (Machine Learning)
-- Analyzed customer payments 
-- Delivered insights on:
-- Enables real-time monitoring of Paybill collections.
-- Improves customer insights (who pays on time, who defaults).
-- Supports financial planning by forecasting revenue streams.
+### 📌 M-Pesa Paybill Analytics System
 
-Provides data-driven decision-making for welfare groups, SACCOs, or businesses relying on M-Pesa.
-- Built dashboards using Power BI + BigQuery + Python
+Created a payment analytics solution that:
+
+- Tracks collections in real time
+- Forecasts revenue
+- Identifies payment behavior
+- Supports business decision-making
+
+**Tech Stack:** Python, SQL, BigQuery, Power BI
 
 ---
 
 ### 📌 Java Data Ingestion Service
-- Built backend service to ingest Excel data into PostgreSQL
-- Designed for scalable ETL foundation
-- Focus on clean architecture and reliability
+
+Developed a Spring Boot service for:
+
+- Excel ingestion
+- Validation
+- Processing
+- PostgreSQL storage
+
+Built using clean architecture principles.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
+
+<!-- Replace YOUR_GITHUB_USERNAME with your actual username -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 What I’m Building Toward
+## 🎯 2026 Goals
 
-- Scalable data infrastructure systems
-- Real-time analytics platforms
-- Production-ready backend services
-- Mtaani Group (data-driven solutions for African businesses)
+- Build production-grade Spring Boot systems
+- Build scalable data platforms
+- Launch Mtaanisoft
+- Contribute to open source
+- Grow into a Systems Architect role
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-- 📧 Email: jumaomondi16@gmail.com  
-- 💼 LinkedIn: Click link at the top
+📧 Email: **jumaomondi16@gmail.com**
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/stephen-juma-643211289/
 
 ---
 
 <p align="center">
-  ⚡ Building systems that turn data into decisions ⚡
+  <strong>⚡ Building systems that turn data into decisions ⚡</strong>
 </p>
+```
