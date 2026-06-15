@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Stephen Juma</h1>
 
 <p align="center">
@@ -203,4 +203,3 @@ https://www.linkedin.com/in/stephen-juma-643211289/
 <p align="center">
   <strong>⚡ Building systems that turn data into decisions ⚡</strong>
 </p>
-```
