@@ -23,11 +23,11 @@ I am a Systems Engineer focused on designing and building end-to-end business so
 
 My work spans:
 
-- Requirements gathering
+- Requirements gathering and Analysis
 - Backend Engineering
 - Data Engineering
 - Analytics Engineering
-- System Design
+- Software development
 - Cloud Data Platforms
 
 I enjoy translating business problems into scalable technical solutions.
