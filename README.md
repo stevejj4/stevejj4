@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Building software systems, data platforms, and analytics solutions that help businesses make better decisions.
+  I Build software systems, data platforms, and analytics solutions that help businesses make better decisions.
 </p>
 
 <p align="center">
@@ -23,11 +23,11 @@ I am a Systems Engineer focused on designing and building end-to-end business so
 
 My work spans:
 
+- Requirements gathering
 - Backend Engineering
 - Data Engineering
 - Analytics Engineering
 - System Design
-- Requirements Engineering
 - Cloud Data Platforms
 
 I enjoy translating business problems into scalable technical solutions.
@@ -35,9 +35,8 @@ I enjoy translating business problems into scalable technical solutions.
 Currently building:
 
 - Enterprise Java applications with Spring Boot
-- Data platforms using Python, Spark, BigQuery, and PostgreSQL
-- Analytics and reporting solutions
-- Mtaanisoft — helping African businesses achieve digital transformation through software and data
+- Data platforms that support Analytics and reporting solutions
+- Mtaanisoft — a digital transformation partner to help African businesses achieve digital transformation through software and data
 
 ---
 
@@ -79,9 +78,7 @@ Currently building:
 
 **Key Areas**
 
-- Data Pipelines
-- Batch Processing
-- Real-Time Processing
+- Data Pipelines (Batch and Real-Time Processing)
 - Data Warehousing
 - Data Quality & Governance
 
@@ -164,8 +161,6 @@ Built using clean architecture principles.
 ---
 
 ## 📈 GitHub Analytics
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual username -->
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
