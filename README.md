@@ -24,17 +24,16 @@ I am a Systems Engineer focused on designing and building end-to-end business so
 My work spans:
 
 - Requirements gathering and Analysis
-- Backend Engineering
-- Data Engineering
-- Analytics Engineering
-- Software development
-- Cloud Data Platforms
+- Software Engineering Management
+- Data LifeCycle Management
+- Analytics and Dashboarding
+- Cloud Computing
 
 I enjoy translating business problems into scalable technical solutions.
 
 Currently building:
 
-- Enterprise Java applications with Spring Boot
+- Enterprise Java applications with Spring Boot Framework
 - Data platforms that support Analytics and reporting solutions
 - Mtaanisoft — a digital transformation partner to help African businesses achieve digital transformation through software and data
 
