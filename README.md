@@ -108,16 +108,17 @@ Currently building:
 
 ## 🌟 Featured Projects
 
-### 📌 Insurance Data Platform
+### 📌 Insurance Quote Management System
 
 Designed and built an end-to-end insurance analytics platform supporting:
 
 - Claims Analytics
-- Risk Scoring
-- Customer Segmentation
-- Predictive Modeling
+- Quote Management
+- Risk Scoring (In development)
+- Customer Segmentation (Machine Learning)
+- Predictive Modeling (Machine learning)
 
-**Tech Stack:** Python, Spark, SQL, BigQuery, Power BI
+**Tech Stack:** SpringBoot, React, TypeScript, MySQL database
 
 ---
 
@@ -178,10 +179,15 @@ Built using clean architecture principles.
 ## 🎯 2026 Goals
 
 - Build production-grade Spring Boot systems
-- Build scalable data platforms
-- Launch Mtaanisoft
-- Contribute to open source
-- Grow into a Systems Architect role
+- Improve Insurance Quotation MS from Monolinth to Modular Monolith
+- Member Management System
+- Fintech integrations
+- Ship Products to Google Playstore and Apple Store
+- Deploy code to cloud
+- Build scalable data platforms - Target is to build Microservices where separate Spring Boot microservices that each talk to their own MySQL databases, while React fetches data from all of them.
+- Launch Mtaanisoft 
+- Contribute to open source - React Community and Mathematics community
+- Grow into a Full Stack Software Engineer
 
 ---
 
@@ -195,5 +201,5 @@ https://www.linkedin.com/in/stephen-juma-643211289/
 ---
 
 <p align="center">
-  <strong>⚡ Building systems that turn data into decisions ⚡</strong>
+  <strong>⚡ Building systems that turn data into decisions and argument workflows ⚡</strong>
 </p>
