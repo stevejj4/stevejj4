@@ -180,7 +180,7 @@ Built using clean architecture principles.
 
 - Build production-grade Spring Boot systems
 - Improve Insurance Quotation MS from Monolinth to Modular Monolith
-- Member Management System
+- Welfare Member Management System
 - Fintech integrations
 - Ship Products to Google Playstore and Apple Store
 - Deploy code to cloud
