@@ -23,17 +23,21 @@ I am a Systems Engineer focused on designing and building end-to-end business so
 
 My work spans:
 
-- Requirements gathering and Analysis
+- Requirements gathering
+- System Design and Analysis
+- FinTech (Mpesa Platform)
 - Software Engineering Management
 - Data LifeCycle Management
 - Analytics and Dashboarding
-- Cloud Computing
+- Cloud Computing (GCP)
+- Learning and unlearning
 
 I enjoy translating business problems into scalable technical solutions.
 
 Currently building:
 
 - Enterprise Java applications with Spring Boot Framework
+- React Frontend for Enterprice applications
 - Data platforms that support Analytics and reporting solutions
 - Mtaanisoft — a digital transformation partner to help African businesses achieve digital transformation through software and data
 
@@ -103,6 +107,7 @@ Currently building:
 - Dashboards
 - API Integration
 - Responsive Interfaces
+- Fintech
 
 ---
 
@@ -122,7 +127,7 @@ Designed and built an end-to-end insurance analytics platform supporting:
 
 ---
 
-### 📌 Real-Time Analytics Platform
+### 📌 Learning project -- Real-Time Analytics Platform
 
 Built streaming pipelines using:
 
@@ -134,29 +139,32 @@ Delivered real-time insights and operational dashboards.
 
 ---
 
-### 📌 M-Pesa Paybill Analytics System
+### 📌Table banking Management Platform
 
-Created a payment analytics solution that:
+Created a banking management platform for groups loans and savings
 
+- Registers new menbers
 - Tracks collections in real time
 - Forecasts revenue
 - Identifies payment behavior
 - Supports business decision-making
 
-**Tech Stack:** Python, SQL, BigQuery, Power BI
+**Tech Stack:** React, SpringBook, GCP, MySQL
 
 ---
 
-### 📌 Java Data Ingestion Service
+### 📌 Member Welfare Management System
 
 Developed a Spring Boot service for:
 
-- Excel ingestion
-- Validation
-- Processing
-- PostgreSQL storage
-
+- Registers new menbers
+- Tracks Premium collections in real time
+- Forecasts revenue
+- Identifies payment behavior
+- Supports business decision-making
 Built using clean architecture principles.
+
+**Tech Stack:** React, SpringBook, GCP, MySQL
 
 ---
 
