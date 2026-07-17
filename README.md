@@ -55,7 +55,7 @@ Currently building:
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### Backend Engineering
+### Backend Engineering - SpringBoot
 
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -72,30 +72,19 @@ Currently building:
 - Database Design
 - Enterprise Application Development
 
-### Data Engineering
+### Cloud Data Engineering -GCP
 
 <p>
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/ETL_Pipelines-6f42c1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data_Modeling-blue?style=for-the-badge" />
-</p>
-
-**Key Areas**
-
-- Data Pipelines (Batch and Real-Time Processing)
-- Data Warehousing
-- Data Quality & Governance
-
-### Cloud & Big Data
-
-<p>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PubSub-4285F4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge" />
 </p>
 
-### Frontend
+### Frontend - React.js
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -112,7 +101,7 @@ Currently building:
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projects
 
 ### 📌 Insurance Quote Management System
 
