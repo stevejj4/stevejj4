@@ -124,7 +124,7 @@ Designed and built an end-to-end insurance analytics platform supporting:
 - Customer Segmentation (Machine Learning)
 - Predictive Modeling (Machine learning)
 
-**Tech Stack:** SpringBoot, React, TypeScript, MySQL database
+**Tech Stack:** SpringBoot, React, TypeScript, MySQL database, Machine Learning
 
 ---
 
@@ -135,6 +135,7 @@ Built streaming pipelines using:
 - Google Pub/Sub
 - Dataflow
 - BigQuery
+- Machine Learing Development
 
 Delivered real-time insights and operational dashboards.
 
@@ -188,8 +189,8 @@ Built using clean architecture principles.
 ## 🎯 2026 Goals
 
 - Build production-grade Spring Boot systems
-- Improve Insurance Quotation MS from Monolinth to Modular Monolith
-- Welfare Member Management System
+- Improve Insurance Quotation MS from Monolinth to Micro Services
+- 5 Management Systems
 - Fintech integrations
 - Ship Products to Google Playstore and Apple Store
 - Deploy code to cloud
