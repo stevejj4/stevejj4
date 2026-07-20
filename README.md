@@ -30,6 +30,7 @@ My work spans:
 - Data LifeCycle Management
 - Analytics and Dashboarding
 - Cloud Computing (GCP)
+- Software as a Service (SaaS)
 - Learning and unlearning
 
 I enjoy translating business problems into scalable technical solutions.
