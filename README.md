@@ -69,7 +69,7 @@ Currently building:
 - Clean Architecture
 - Domain Driven Design
 - API Development
-- Authentication & Authorization
+- Authentication & Authorization JWTs
 - Database Design
 - Enterprise Application Development
 
