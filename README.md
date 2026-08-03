@@ -19,15 +19,15 @@
 
 ## 🚀 About Me
 
-I am a Systems Engineer focused on designing and building end-to-end business solutions.
+I am a Full Stack Software Engineer focused on designing and building end-to-end software solutions that argument business workflows
 
 My work spans:
 
 - Requirements gathering
 - System Design and Analysis
-- FinTech (Mpesa Platform)
 - Software Engineering Management
 - Data LifeCycle Management
+- Fintech
 - Analytics and Dashboarding
 - Cloud Computing (GCP)
 - Software as a Service (SaaS)
@@ -63,15 +63,6 @@ Currently building:
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
-**Key Areas**
-
-- Clean Architecture
-- Domain Driven Design
-- API Development
-- Authentication & Authorization JWTs
-- Database Design
-- Enterprise Application Development
 
 ### Cloud Data Engineering -GCP
 
