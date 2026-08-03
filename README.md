@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Stephen Juma</h1>
 
 <p align="center">
-  <strong>Systems Engineer | Data Engineer | Backend Engineer</strong>
+  <strong>Full Stack Software Engineer | Tech Advocate</strong>
 </p>
 
 <p align="center">
