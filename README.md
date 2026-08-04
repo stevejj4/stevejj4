@@ -121,15 +121,12 @@ Developed a production-grade service designed around clean architecture principl
 **Tech Stack:** React, Spring Boot, GCP, MySQL 
 
 --- 
+## 📈 GitHub Analytics
 
-## 📈 GitHub Analytics 
-
-<p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevejj4&show_icons=true&theme=tokyonight" alt="Stephen's GitHub Stats" /> 
-</p> 
-<p align="center"> 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=stevejj4&theme=tokyonight" alt="Stephen's GitHub Streak" /> 
-</p> 
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 --- 
 
