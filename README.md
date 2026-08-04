@@ -1,196 +1,151 @@
+<h1 align="center">Hi 👋, I'm Stephen Juma</h1> 
+<p align="center"> 
+  <strong>Full Stack Software Engineer | Tech Advocate</strong> 
+</p> 
+<p align="center"> 
+  I build software systems, data platforms, and analytics solutions that help businesses make better decisions. 
+</p> 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/stephen-juma-643211289/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> 
+  </a> 
+</p> 
 
-<h1 align="center">Hi 👋, I'm Stephen Juma</h1>
+--- 
 
-<p align="center">
-  <strong>Full Stack Software Engineer | Tech Advocate</strong>
-</p>
+## 🚀 About Me 
+I am a Full Stack Software Engineer focused on designing and building end-to-end software solutions that augment business workflows. 
 
-<p align="center">
-  I Build software systems, data platforms, and analytics solutions that help businesses make better decisions.
-</p>
+My work spans: 
+- Requirements gathering 
+- System Design and Analysis 
+- Software Engineering Management 
+- Data Lifecycle Management 
+- Fintech 
+- Analytics and Dashboarding 
+- Cloud Computing (GCP) 
+- Software as a Service (SaaS) 
+- Continuous learning and unlearning 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/stephen-juma-643211289/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
+I enjoy translating business problems into scalable technical solutions. 
 
----
+Currently building: 
+- Enterprise Java applications with Spring Boot Framework 
+- React frontends for enterprise applications 
+- Spring Security Framework with JWTs 
+- Data platforms that support analytics and reporting solutions 
+- **Mtaanisoft** — a partner helping African businesses achieve digital transformation through software and data 
 
-## 🚀 About Me
+--- 
 
-I am a Full Stack Software Engineer focused on designing and building end-to-end software solutions that argument business workflows
+## 🛠 Technology Stack 
 
-My work spans:
+### Languages 
+<p> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
+</p> 
 
-- Requirements gathering
-- System Design and Analysis
-- Software Engineering Management
-- Data LifeCycle Management
-- Fintech
-- Analytics and Dashboarding
-- Cloud Computing (GCP)
-- Software as a Service (SaaS)
-- Learning and unlearning
+### Backend Engineering 
+<p> 
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> 
+  <img src="https://shields.io" /> 
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+</p> 
 
-I enjoy translating business problems into scalable technical solutions.
+### Cloud Data Engineering (GCP) 
+<p> 
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/ETL_Pipelines-6f42c1?style=for-the-badge" /> 
+  <img src="https://shields.io" /> 
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /> 
+  <img src="https://shields.io" /> 
+  <img src="https://shields.io" /> 
+  <img src="https://shields.io" /> 
+</p> 
 
-Currently building:
+### Frontend 
+<p> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
+</p> 
 
-- Enterprise Java applications with Spring Boot Framework
-- React Frontend for Enterprice applications
-- Spring Security Framework with JWTs
-- Data platforms that support Analytics and reporting solutions
-- Mtaanisoft — a digital transformation partner to help African businesses achieve digital transformation through software and data
+**Capabilities** 
+- Admin Portals & Dashboards 
+- REST API Integration 
+- Responsive User Interfaces 
+- Fintech System Architectures 
 
----
+--- 
 
-## 🛠 Technology Stack
+## 🌟 Projects 
 
-### Languages
+### 📌 Insurance Quote Management System 
+Designed and built an end-to-end insurance analytics platform supporting: 
+- Claims Analytics & Quote Management 
+- Risk Scoring *(In development)* 
+- Customer Segmentation & Predictive Modeling *(Machine Learning)* 
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+**Tech Stack:** Spring Boot, React, TypeScript, MySQL, Python (scikit-learn) 
 
-### Backend Engineering - SpringBoot
+--- 
 
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+### 📌 Real-Time Analytics Platform 
+Built data streaming pipelines delivering real-time insights and operational dashboards. 
+- Ingested streaming data via Google Pub/Sub 
+- Processed data jobs using Cloud Dataflow 
+- Stored and queried structured logs in BigQuery 
 
-### Cloud Data Engineering -GCP
+**Tech Stack:** GCP, Apache Spark, Python 
 
-<p>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL_Pipelines-6f42c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Modeling-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PubSub-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge" />
-</p>
+--- 
 
-### Frontend - React.js
+### 📌 Table Banking Management Platform 
+Created a secure banking platform managing community micro-loans and savings groups. 
+- Registers new members and aggregates distributed deposits 
+- Tracks weekly collections in real time 
+- Forecasts revenue yields and maps financial behavior 
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+**Tech Stack:** React, Spring Boot, GCP, MySQL 
 
-**Capabilities**
+--- 
 
-- Admin Portals
-- Dashboards
-- API Integration
-- Responsive Interfaces
-- Fintech
+### 📌 Member Welfare Management System 
+Developed a production-grade service designed around clean architecture principles. 
+- Onboards organization members seamlessly 
+- Automates premium welfare collection schedules 
+- Provides reporting modules to support structural business decisions 
 
----
+**Tech Stack:** React, Spring Boot, GCP, MySQL 
 
-## 🌟 Projects
+--- 
 
-### 📌 Insurance Quote Management System
+## 📈 GitHub Analytics 
 
-Designed and built an end-to-end insurance analytics platform supporting:
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevejj4&show_icons=true&theme=tokyonight" alt="Stephen's GitHub Stats" /> 
+</p> 
+<p align="center"> 
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=stevejj4&theme=tokyonight" alt="Stephen's GitHub Streak" /> 
+</p> 
 
-- Claims Analytics
-- Quote Management
-- Risk Scoring (In development)
-- Customer Segmentation (Machine Learning)
-- Predictive Modeling (Machine learning)
+--- 
 
-**Tech Stack:** SpringBoot, React, TypeScript, MySQL database, Machine Learning
+## 🎯 2026 Goals 
+- **Architect Microservices:** Migrate the monolithic Insurance Quotation platform into distributed Spring Boot microservices, each communicating with isolated MySQL instances while serving a unified React frontend. 
+- **Production Environments:** Ship commercial business applications to the Google Play Store and Apple App Store. 
+- **Community Contributions:** Actively contribute to open-source software, focusing on the React ecosystem and mathematical computing frameworks. 
+- **Scale Mtaanisoft:** Launch and establish operations to accelerate digital transformation for local African businesses. 
 
----
+--- 
 
-### 📌 Learning project -- Real-Time Analytics Platform
+## 📫 Connect With Me 
+📧 Email: **jumaomondi16@gmail.com** 
+💼 LinkedIn: [linkedin.com/in/stephen-juma-643211289/](https://www.linkedin.com/in/stephen-juma-643211289/) 
 
-Built streaming pipelines using:
-
-- Google Pub/Sub
-- Dataflow
-- BigQuery
-- Machine Learing Development
-
-Delivered real-time insights and operational dashboards.
-
----
-
-### 📌Table banking Management Platform
-
-Created a banking management platform for groups loans and savings
-
-- Registers new menbers
-- Tracks collections in real time
-- Forecasts revenue
-- Identifies payment behavior
-- Supports business decision-making
-
-**Tech Stack:** React, SpringBook, GCP, MySQL
-
----
-
-### 📌 Member Welfare Management System
-
-Developed a Spring Boot service for:
-
-- Registers new menbers
-- Tracks Premium collections in real time
-- Forecasts revenue
-- Identifies payment behavior
-- Supports business decision-making
-Built using clean architecture principles.
-
-**Tech Stack:** React, SpringBook, GCP, MySQL
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevejj4&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=stevejj4&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stevejj4&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- Build production-grade Spring Boot systems
-- Improve Insurance Quotation MS from Monolinth to Micro Services
-- 5 Management Systems
-- Fintech integrations
-- Ship Products to Google Playstore and Apple Store
-- Deploy code to cloud
-- Build scalable data platforms - Target is to build Microservices where separate Spring Boot microservices that each talk to their own MySQL databases, while React fetches data from all of them.
-- Launch Mtaanisoft 
-- Contribute to open source - React Community and Mathematics community
-- Grow into a Full Stack Software Engineer
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **jumaomondi16@gmail.com**
-
-💼 LinkedIn:  
-https://www.linkedin.com/in/stephen-juma-643211289/
-
----
-
-<p align="center">
-  <strong>⚡ Building systems that turn data into decisions and argument workflows ⚡</strong>
+--- 
+<p align="center"> 
+  <strong>⚡ Building systems that turn data into decisions and augment workflows ⚡</strong> 
 </p>
