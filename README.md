@@ -25,7 +25,8 @@ My work spans:
 - Analytics and Dashboarding 
 - Cloud Computing (GCP) 
 - Software as a Service (SaaS) 
-- Continuous learning and unlearning 
+- Continuous learning and unlearning
+- Deployment
 
 I enjoy translating business problems into scalable technical solutions. 
 
