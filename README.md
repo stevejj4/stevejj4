@@ -34,7 +34,7 @@ Currently building:
 - Enterprise Java applications with Spring Boot Framework 
 - React frontends for enterprise applications 
 - Spring Security Framework with JWTs 
-- Data platforms that support analytics and reporting solutions 
+- Data platforms that support analytics and reporting solutions powered by AI
 - **Mtaanisoft** — a partner helping African businesses achieve digital transformation through software and data 
 
 --- 
