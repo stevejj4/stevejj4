@@ -3,7 +3,7 @@
   <strong>Full Stack Software Engineer | Tech Advocate</strong> 
 </p> 
 <p align="center"> 
-  I build software systems and data platforms powered with AI to augment analytics there by helping businesses make better systemic decisions. 
+  I build software and data systems powered with AI to augment analytics there by helping businesses make better systemic decisions. 
 </p> 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/stephen-juma-643211289/"> 
