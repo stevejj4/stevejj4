@@ -16,15 +16,15 @@
 ## 🚀 About Me 
 I am a Full Stack Software Engineer focused on designing and building end-to-end software solutions that augment business workflows. 
 
-My work spans: 
+My work spans accoss: 
 - Requirements gathering 
 - System Design and Analysis 
 - Software Engineering Management 
 - Data Lifecycle Management 
 - Fintech 
 - Analytics and Dashboarding 
-- Cloud Computing (GCP) 
-- Software as a Service (SaaS) 
+- DevOps
+- Cloud Computing
 - Continuous learning and unlearning
 - Deployment
 
