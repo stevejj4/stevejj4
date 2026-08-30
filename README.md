@@ -3,7 +3,7 @@
   <strong>Full Stack Software Engineer | Tech Advocate</strong> 
 </p> 
 <p align="center"> 
-  Hi I build software and data systems. I use AI to argument my workflows. Do you want to me collaborate with you for a project or hire me as a contrator, feel free to react out to me @ -- jumaomondi16@gmail.com
+  Hi, I build software and data systems. I use AI to argument my workflows. Do you want us to collaborate for a project or hire me as a contrator, feel free to reach out to me @ -- jumaomondi16@gmail.com
 </p> 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/stephen-juma-643211289/"> 
