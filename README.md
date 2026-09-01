@@ -93,16 +93,6 @@ Designed and built an end-to-end insurance analytics platform supporting:
 
 --- 
 
-### 📌 Real-Time Analytics Platform 
-Built data streaming pipelines delivering real-time insights and operational dashboards. 
-- Ingested streaming data via Google Pub/Sub 
-- Processed data jobs using Cloud Dataflow 
-- Stored and queried structured logs in BigQuery 
-
-**Tech Stack:** GCP, Apache Spark, Python 
-
---- 
-
 ### 📌 Table Banking Management Platform 
 Created a secure banking platform managing community micro-loans and savings groups. 
 - Registers new members and aggregates distributed deposits 
