@@ -26,7 +26,6 @@ My work spans accoss:
 - DevOps
 - Cloud Computing
 - Continuous learning and unlearning
-- Deployment
 
 I enjoy translating business problems into scalable technical solutions. 
 
