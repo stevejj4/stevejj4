@@ -1,281 +1,205 @@
-<h1 align="center">Stephen Juma</h1>
+# 👋 Hi, I'm Stephen Juma
 
 <p align="center">
-  <strong>Full Stack Software Engineer · Digital Transformation · Data Systems</strong>
+  <strong>Full Stack Software Engineer · Data Systems · Digital Transformation</strong>
 </p>
 
-<p align="center">
-  I design and build software and data systems that solve real business problems,
-  improve workflows, and help organizations make better decisions.
-</p>
+<p align="center">   I build software and data systems that solve business problems, improve workflows, and turn operational data into useful decisions. </p>
 
-<p align="center">
-  <a href="mailto:jumaomondi16@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/stephen-juma-643211289/">LinkedIn</a> ·
-  <a href="https://github.com/">GitHub</a>
-</p>
+<p align="center">   <a href="mailto:[jumaomondi16@gmail.com](mailto:jumaomondi16@gmail.com)">📧 Email</a> ·   <a href="
+
+https://www.linkedin.com/in/stephen-juma-643211289/">💼 LinkedIn</a> </p>
 
 ---
 
-## About Me
+## 💡 About Me
 
-I am a **Full Stack Software Engineer** focused on building practical software systems from requirements and system analysis through development, testing, deployment, and continuous improvement.
+I am a **Full Stack Software Engineer** working across the software development lifecycle — from requirements gathering and system analysis to development, testing, deployment, and continuous improvement.
 
-My work sits at the intersection of **software engineering, data, and digital transformation**. I enjoy understanding how organizations operate, identifying opportunities for improvement, and translating those needs into reliable technical solutions.
+My work sits at the intersection of **software engineering, data systems, and digital transformation**. I enjoy understanding how organizations operate, identifying gaps in existing workflows, and translating those challenges into practical technical solutions.
 
-### Areas I Work In
+### 🎯 Core Areas
 
-* Requirements Gathering & User Stories
-* System Design & Analysis
-* Full Stack Software Development
-* Backend Engineering & REST APIs
-* Data Management & ETL
-* Analytics & Dashboarding
-* Software Testing & Quality Assurance
-* Cloud Computing & DevOps
-* Digital Transformation
-* AI-Augmented Development
+* **Software Delivery** — Requirements Gathering, User Stories, System Design & Full Stack Development
+* **Backend Engineering** — REST APIs, Spring Boot, Spring Security & JWT Authentication
+* **Data Systems** — Data Management, ETL, Data Modelling & Analytics
+* **Software Quality** — Unit, Integration, API Testing & UAT
+* **Cloud & DevOps** — Cloud Infrastructure, Deployment, Git & CI/CD
+* **Digital Transformation** — Process Digitalization, Workflow Automation & Systems Integration
+* **AI-Augmented Engineering** — Using AI to support development, testing, analysis and documentation
 
-> **Engineering principle:** Build technology that fits the problem, the people, and the environment in which it will be used.
+> **Engineering principle:** Build technology that fits the problem, the people, and the environment in which it operates.
 
 ---
 
-## What I'm Building
+## 🏗️ What I'm Building
 
-### Enterprise Software
+### Enterprise & Business Software
 
-Building business applications using **Java, Spring Boot, React, and TypeScript**, with a focus on maintainability, security, testing, and clear system architecture.
+Developing business applications using **Java, Spring Boot, React and TypeScript**, with an emphasis on maintainable architecture, security, testing and reliable integrations.
 
 ### Data Systems
 
-Designing data workflows that support **collection, cleaning, transformation, storage, reporting, and analytics**.
+Building data workflows for **collection, cleaning, transformation, storage, reporting and analytics**, with the goal of making operational data easier to manage and use.
 
 ### AI-Augmented Workflows
 
-Using AI to accelerate development, testing, analysis, documentation, and repetitive workflows while keeping engineering decisions grounded in the actual business and technical requirements.
+Using AI tools to accelerate software development, testing, documentation and analysis while keeping engineering decisions grounded in business and technical requirements.
 
 ### Mtaanisoft Technologies
 
-Building **Mtaanisoft Technologies**, a Kenyan technology company focused on helping businesses and organizations improve how they operate through practical software and digital solutions.
+Building **Mtaanisoft Technologies**, a Kenyan technology company focused on helping businesses and organizations improve their operations through practical software and digital solutions.
 
 ---
 
-## Technology
+## 🛠️ Technology Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+### 💻 Languages
 
-### Languages
+`Java` `Python` `SQL` `TypeScript` `JavaScript`
 
-* Java
-* Python
-* SQL
-* TypeScript
-* JavaScript
+### ⚙️ Backend & Databases
 
-</td>
+`Spring Boot` `Spring Security` `REST APIs` `JWT` `MySQL` `PostgreSQL`
 
-<td valign="top" width="33%">
+### 🎨 Frontend
 
-### Backend
+`React` `TypeScript` `HTML5` `CSS3` `Responsive UI`
 
-* Spring Boot
-* Spring Security
-* REST APIs
-* JWT Authentication
-* MySQL
-* PostgreSQL
+### 📊 Data & Analytics
 
-</td>
+`ETL Pipelines` `Data Cleaning` `Data Modelling` `Apache Spark` `Analytics` `Dashboards`
 
-<td valign="top" width="33%">
+### ☁️ Cloud & DevOps
 
-### Frontend
+`Google Cloud` `Docker` `Git` `GitHub` `CI/CD`
 
-* React
-* TypeScript
-* HTML
-* CSS
-* Responsive UI
+### 🧪 Engineering Practices
 
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### Data & Analytics
-
-* ETL Pipelines
-* Apache Spark
-* Data Cleaning
-* Data Modeling
-* Analytics
-* Dashboarding
-
-</td>
-
-<td valign="top">
-
-### Cloud & DevOps
-
-* Google Cloud
-* Docker
-* Git
-* GitHub
-* CI/CD
-* Cloud Deployments
-
-</td>
-
-<td valign="top">
-
-### Engineering Practices
-
-* SDLC
-* System Testing
-* UAT
-* API Testing
-* Requirements Analysis
-* Documentation
-
-</td>
-</tr>
-</table>
+`SDLC` `Requirements Analysis` `Unit Testing` `Integration Testing` `API Testing` `UAT` `Technical Documentation`
 
 ---
 
-## Selected Projects
+## 🚀 Selected Projects
 
-### Insurance Quote Management System
+### 📋 Insurance Quote Management System
 
-An end-to-end insurance platform designed to support quotation workflows, analytics, and future intelligent risk assessment.
+An insurance platform designed to streamline quotation workflows and provide operational and analytical capabilities.
 
 **Capabilities**
 
-* Quote management
+* Quote lifecycle management
 * Insurance analytics
 * Customer segmentation
 * Risk scoring
 * Predictive modelling
 * Reporting
 
-**Stack:** Java · Spring Boot · React · TypeScript · MySQL · Python
+**Technology:** `Java` · `Spring Boot` · `React` · `TypeScript` · `MySQL` · `Python`
 
 ---
 
-### Table Banking Management Platform
+### 🏦 Table Banking Management Platform
 
-A digital platform for managing community savings and micro-loan operations.
+A digital platform for managing community savings groups and micro-loan operations.
 
 **Capabilities**
 
-* Member registration
+* Member onboarding
 * Group management
 * Savings and contribution tracking
 * Loan management
-* Financial reporting
-* Data-driven insights
+* Financial records
+* Reporting and analytics
 
-**Stack:** Java · Spring Boot · React · MySQL · Google Cloud
+**Technology:** `Java` · `Spring Boot` · `React` · `MySQL` · `Google Cloud`
 
 ---
 
-### Member Welfare Management System
+### 👥 Member Welfare Management System
 
-A digital welfare management platform designed to streamline member onboarding, contribution management, and organizational reporting.
+A digital welfare management platform designed to streamline member registration, contribution management and organizational workflows.
 
 **Capabilities**
 
 * Member registration
-* Welfare contribution management
-* Member information management
+* Member profile management
+* Welfare contribution tracking
 * Facilitator workflows
+* Role-based access control
 * Reporting
 * Data management
-* Role-based system access
 
-**Stack:** Java · Spring Boot · React · TypeScript · MySQL · Google Cloud
-
----
-
-## Engineering Focus
-
-Currently deepening my work in:
-
-**Backend Engineering**
-→ Spring Boot · Spring Security · REST APIs · System Architecture
-
-**Frontend Engineering**
-→ React · TypeScript · Component Architecture · API Integration
-
-**Data Engineering**
-→ SQL · ETL · Data Modelling · Apache Spark · Cloud Data Platforms
-
-**Artificial Intelligence**
-→ Machine Learning · Responsible AI · Explainable AI · AI-assisted software development
-
-**Software Quality**
-→ Unit Testing · Integration Testing · API Testing · UAT · Production Support
+**Technology:** `Java` · `Spring Boot` · `React` · `TypeScript` · `MySQL` · `Google Cloud`
 
 ---
 
-## 2026 Learning & Building
+## 🔍 Current Focus
 
-This year I'm focused on strengthening the connection between **software engineering, data, and artificial intelligence**.
+I'm currently deepening my engineering skills across four areas:
 
-### Technical Goals
+### Backend Engineering
 
-* Design distributed and microservice-based applications
-* Build and deploy production-ready applications
-* Strengthen cloud and DevOps practices
-* Improve software testing and system reliability
+Distributed systems, microservices architecture, API design, Spring Security and production-ready backend development.
+
+### Frontend Engineering
+
+Component-driven React applications, TypeScript, state management, responsive interfaces and API integration.
+
+### Data Infrastructure
+
+Data pipelines, cloud data platforms, data warehousing, distributed processing and analytics.
+
+### Artificial Intelligence
+
+Machine Learning, Explainable AI, Responsible AI and practical applications of AI within software and business workflows.
+
+---
+
+## 📅 2026 Roadmap
+
+### Technical
+
+* Build and deploy production-ready distributed applications
+* Strengthen cloud-native architecture and deployment practices
+* Improve CI/CD and software testing workflows
 * Build data platforms that support analytics and AI
 * Contribute to open-source projects
-* Explore practical applications of AI in business workflows
+* Explore AI-assisted software development practices
 
-### Building Mtaanisoft
+### Mtaanisoft Technologies
 
-I'm also working on establishing **Mtaanisoft Technologies** as a practical technology partner for African businesses and organizations.
-
-The focus is simple:
+Continue building Mtaanisoft as a practical technology partner for businesses and organizations.
 
 > **Understand the problem. Design the system. Build the solution. Improve the workflow.**
 
 ---
 
-## GitHub
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/>
-</p>
+<p align="center">   <img src="
+
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="165"/>   <img src="
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/> </p>
 
 ---
 
-## Let's Build
+## 🤝 Let's Collaborate
 
-I'm open to collaborating on:
+I'm open to **contract opportunities, technical consulting and software projects** involving:
 
-* Software development projects
-* Business process digitalization
-* Data and analytics systems
-* Technical consulting
-* QA and system testing
-* AI-enabled workflows
-* Contract engineering opportunities
+* Full Stack Software Development
+* Business Process Digitalization
+* Workflow Automation
+* Data Systems & Analytics
+* API Development & System Integration
+* Software Testing & QA
 
-<p align="center">
-  <a href="mailto:jumaomondi16@gmail.com">
-    <strong>Get in touch → jumaomondi16@gmail.com</strong>
-  </a>
-</p>
+If you're building something and need technical support, feel free to reach out.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/stephen-juma-643211289/">
-    LinkedIn
-  </a>
+  <strong>📧 [jumaomondi16@gmail.com](mailto:jumaomondi16@gmail.com)</strong>
 </p>
 
 ---
