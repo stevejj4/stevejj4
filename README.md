@@ -1,11 +1,16 @@
-<!-- =========================================================
-     ABOUT ME
-========================================================= -->
+# 👋 Hi, I'm Stephen Juma
 
-<table>
-<tr>
+<p align="center">
+  <strong>Full Stack Software Engineer · Data Systems · Digital Transformation</strong>
+</p>
 
-<td width="60%" valign="top">
+<p align="center">   I build software and data systems that solve business problems, improve workflows, and turn operational data into useful decisions. </p>
+
+<p align="center">   <a href="mailto:[jumaomondi16@gmail.com](mailto:jumaomondi16@gmail.com)">📧 Email</a> ·   <a href="
+
+https://www.linkedin.com/in/stephen-juma-643211289/">💼 LinkedIn</a> </p>
+
+---
 
 ## 💡 About Me
 
@@ -25,104 +30,180 @@ My work sits at the intersection of **software engineering, data systems, and di
 
 > **Engineering principle:** Build technology that fits the problem, the people, and the environment in which it operates.
 
-</td>
+---
 
-<td width="40%" align="center" valign="middle">
+## 🏗️ What I'm Building
 
-<img src="
+### Enterprise & Business Software
 
-https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="350" alt="Software Engineering Animation" />
+Developing business applications using **Java, Spring Boot, React and TypeScript**, with an emphasis on maintainable architecture, security, testing and reliable integrations.
 
-</td>
+### Data Systems
 
-</tr> </table>
+Building data workflows for **collection, cleaning, transformation, storage, reporting and analytics**, with the goal of making operational data easier to manage and use.
+
+### AI-Augmented Workflows
+
+Using AI tools to accelerate software development, testing, documentation and analysis while keeping engineering decisions grounded in business and technical requirements.
+
+### Mtaanisoft Technologies
+
+Building **Mtaanisoft Technologies**, a Kenyan technology company focused on helping businesses and organizations improve their operations through practical software and digital solutions.
 
 ---
 
 ## 🛠️ Technology Stack
 
-### Languages
+### 💻 Languages
 
-<p>   <img src="
+`Java` `Python` `SQL` `TypeScript` `JavaScript`
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>   <img src="
+### ⚙️ Backend & Databases
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>   <img src="
+`Spring Boot` `Spring Security` `REST APIs` `JWT` `MySQL` `PostgreSQL`
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>   <img src="
+### 🎨 Frontend
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>   <img src="
+`React` `TypeScript` `HTML5` `CSS3` `Responsive UI`
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>   <img src="
+### 📊 Data & Analytics
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/> </p>
+`ETL Pipelines` `Data Cleaning` `Data Modelling` `Apache Spark` `Analytics` `Dashboards`
 
-### Backend & Infrastructure
+### ☁️ Cloud & DevOps
 
-<p>   <img src="
+`Google Cloud` `Docker` `Git` `GitHub` `CI/CD`
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" alt="Spring Boot"/>   <img src="
+### 🧪 Engineering Practices
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>   <img src="
+`SDLC` `Requirements Analysis` `Unit Testing` `Integration Testing` `API Testing` `UAT` `Technical Documentation`
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" alt="Google Cloud"/>   <img src="
+---
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>   <img src="
+## 🚀 Selected Projects
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/> </p>
+### 📋 Insurance Quote Management System
 
-### Frontend
+An insurance platform designed to streamline quotation workflows and provide operational and analytical capabilities.
 
-<p>   <img src="
+**Capabilities**
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>   <img src="
+* Quote lifecycle management
+* Insurance analytics
+* Customer segmentation
+* Risk scoring
+* Predictive modelling
+* Reporting
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>   <img src="
+**Technology:** `Java` · `Spring Boot` · `React` · `TypeScript` · `MySQL` · `Python`
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>   <img src="
+---
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/> </p>
+### 🏦 Table Banking Management Platform
+
+A digital platform for managing community savings groups and micro-loan operations.
+
+**Capabilities**
+
+* Member onboarding
+* Group management
+* Savings and contribution tracking
+* Loan management
+* Financial records
+* Reporting and analytics
+
+**Technology:** `Java` · `Spring Boot` · `React` · `MySQL` · `Google Cloud`
+
+---
+
+### 👥 Member Welfare Management System
+
+A digital welfare management platform designed to streamline member registration, contribution management and organizational workflows.
+
+**Capabilities**
+
+* Member registration
+* Member profile management
+* Welfare contribution tracking
+* Facilitator workflows
+* Role-based access control
+* Reporting
+* Data management
+
+**Technology:** `Java` · `Spring Boot` · `React` · `TypeScript` · `MySQL` · `Google Cloud`
+
+---
+
+## 🔍 Current Focus
+
+I'm currently deepening my engineering skills across four areas:
+
+### Backend Engineering
+
+Distributed systems, microservices architecture, API design, Spring Security and production-ready backend development.
+
+### Frontend Engineering
+
+Component-driven React applications, TypeScript, state management, responsive interfaces and API integration.
+
+### Data Infrastructure
+
+Data pipelines, cloud data platforms, data warehousing, distributed processing and analytics.
+
+### Artificial Intelligence
+
+Machine Learning, Explainable AI, Responsible AI and practical applications of AI within software and business workflows.
+
+---
+
+## 📅 2026 Roadmap
+
+### Technical
+
+* Build and deploy production-ready distributed applications
+* Strengthen cloud-native architecture and deployment practices
+* Improve CI/CD and software testing workflows
+* Build data platforms that support analytics and AI
+* Contribute to open-source projects
+* Explore AI-assisted software development practices
+
+### Mtaanisoft Technologies
+
+Continue building Mtaanisoft as a practical technology partner for businesses and organizations.
+
+> **Understand the problem. Design the system. Build the solution. Improve the workflow.**
 
 ---
 
 ## 📊 GitHub Activity
 
+<p align="center">   <img src="
+
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="165"/>   <img src="
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/> </p>
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to **contract opportunities, technical consulting and software projects** involving:
+
+* Full Stack Software Development
+* Business Process Digitalization
+* Workflow Automation
+* Data Systems & Analytics
+* API Development & System Integration
+* Software Testing & QA
+
+If you're building something and need technical support, feel free to reach out.
+
 <p align="center">
-
-<img  src="
-
-https://github-readme-stats.vercel.app/api?username=stevejj4&show_icons=true&hide_border=true&rank_icon=github"  height="180"  alt="Stephen Juma GitHub Statistics" />
-
-<img  src="
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=stevejj4&layout=compact&hide_border=true"  height="180"  alt="Stephen Juma Top Languages" />
-
+  <strong>📧 [jumaomondi16@gmail.com](mailto:jumaomondi16@gmail.com)</strong>
 </p>
 
 ---
 
-## 📈 GitHub Streak
-
 <p align="center">
-
-<img  src="
-
-https://streak-stats.demolab.com?user=stevejj4&hide_border=true"  alt="Stephen Juma GitHub Contribution Streak" />
-
-</p>
-
----
-
-## 👀 Profile Activity
-
-<p align="center">
-
-<img  src="
-
-https://komarev.com/ghpvc/?username=stevejj4&label=Profile%20Views&style=flat-square"  alt="GitHub Profile Views" />
-
-<img  src="
-
-https://img.shields.io/github/followers/stevejj4?label=Followers&style=flat-square"  alt="GitHub Followers" />
-
+  <strong>Build systems. Improve workflows. Turn data into decisions.</strong>
 </p>
