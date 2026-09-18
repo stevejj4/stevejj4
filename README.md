@@ -99,9 +99,9 @@ An insurance platform designed to streamline quotation workflows and provide ope
 
 ---
 
-### 🏦 Table Banking Management Platform
+### 🏦 Group/Chama Table Banking SaaS
 
-A digital platform for managing community savings groups and micro-loan operations.
+A digital platform for managing community savings groups and micro-loan operations for different groups with their own group operations modalities.
 
 **Capabilities**
 
@@ -111,24 +111,22 @@ A digital platform for managing community savings groups and micro-loan operatio
 * Loan management
 * Financial records
 * Reporting and analytics
+* Tenant Onbording
 
-**Technology:** `Java` · `Spring Boot` · `React` · `MySQL` · `Google Cloud`
+**Technology:** `Java` · `Spring Boot` · `React` · `MySQL` · `Google Cloud` `SaaS`
 
 ---
 
-### 👥 Member Welfare Management System
-
-A digital welfare management platform designed to streamline member registration, contribution management and organizational workflows.
+### 👥 Member Welfare Data Platform
+A digital data platform for data management designed to streamline member registration, data cleaning and Storage for analytical use.
 
 **Capabilities**
 
-* Member registration
-* Member profile management
-* Welfare contribution tracking
-* Facilitator workflows
+* Member registation service
+* Data management
+* Data Admin work flows
 * Role-based access control
 * Reporting
-* Data management
 
 **Technology:** `Java` · `Spring Boot` · `React` · `TypeScript` · `MySQL` · `Google Cloud`
 
