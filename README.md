@@ -24,7 +24,7 @@ My work sits at the intersection of **software engineering, data systems, and di
 * **Backend Engineering** — REST APIs, Spring Boot, Spring Security & JWT Authentication
 * **Data Systems** — Data Management, ETL, Data Modelling & Analytics
 * **Software Quality** — Unit, Integration, API Testing & UAT
-* **Cloud & DevOps** — Cloud Infrastructure, Deployment, Git & CI/CD
+* **Cloud & DevOps** — Cloud Infrastructure, Deployment, Docker Git & CI/CD
 * **Digital Transformation** — Process Digitalization, Workflow Automation & Systems Integration
 * **AI-Augmented Engineering** — Using AI to support development, testing, analysis and documentation
 
