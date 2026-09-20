@@ -1,207 +1,96 @@
-# 👋 Hi, I'm Stephen Juma
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Stephen Juma</h1>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 <p align="center">
-  <strong>Full Stack Software Engineer · Data Systems · Digital Transformation</strong>
+  <a href="https://komarev.com/ghpvc/?username=stevejj4">
+    <img src="https://komarev.com/ghpvc/?username=stevejj4&label=Profile%20views&color=00FFFF&style=flat-square" alt="stevejj4's profile views" />
+  </a>
 </p>
 
-<p align="center">   I build software and data systems that solve business problems, improve workflows, and turn operational data into useful decisions. </p>
-
-<p align="center">   <a href="mailto:[jumaomondi16@gmail.com](mailto:jumaomondi16@gmail.com)">📧 Email</a> ·   <a href="
-
-https://www.linkedin.com/in/stephen-juma-643211289/">💼 LinkedIn</a> </p>
-
----
-
-## 💡 About Me
-
-I am a **Full Stack Software Engineer** working across the software development lifecycle — from requirements gathering and system analysis to development, testing, deployment, and continuous improvement.
-
-My work sits at the intersection of **software engineering, data systems, and digital transformation**. I enjoy understanding how organizations operate, identifying gaps in existing workflows, and translating those challenges into practical technical solutions.
-
-### 🎯 Core Areas
-
-* **Software Delivery** — Requirements Gathering, User Stories, System Design & Full Stack Development
-* **Backend Engineering** — REST APIs, Spring Boot, Spring Security & JWT Authentication
-* **Data Systems** — Data Management, ETL, Data Modelling & Analytics
-* **Software Quality** — Unit, Integration, API Testing & UAT
-* **Cloud & DevOps** — Cloud Infrastructure, Deployment, Docker Git & CI/CD
-* **Digital Transformation** — Process Digitalization, Workflow Automation & Systems Integration
-* **AI-Augmented Engineering** — Using AI to support development, testing, analysis and documentation
-
-> **Engineering principle:** Build technology that fits the problem, the people, and the environment in which it operates.
-
----
-
-## 🏗️ What I'm Building
-
-### Enterprise & Business Software
-
-Developing business applications using **Java, Spring Boot, React and TypeScript**, with an emphasis on maintainable architecture, security, testing and reliable integrations.
-
-### Data Systems
-
-Building data workflows for **collection, cleaning, transformation, storage, reporting and analytics**, with the goal of making operational data easier to manage and use.
-
-### AI-Augmented Workflows
-
-Using AI tools to accelerate software development, testing, documentation and analysis while keeping engineering decisions grounded in business and technical requirements.
-
-### Mtaanisoft Technologies
-
-Building **Mtaanisoft Technologies**, a Kenyan technology company focused on helping businesses and organizations improve their operations through practical software and digital solutions.
-
----
-
-## 🛠️ Technology Stack
-
-### 💻 Languages
-
-`Java` `Python` `SQL` `TypeScript` `JavaScript`
-
-### ⚙️ Backend & Databases
-
-`Spring Boot` `Spring Security` `REST APIs` `JWT` `MySQL` `PostgreSQL`
-
-### 🎨 Frontend
-
-`React` `TypeScript` `HTML5` `CSS3` `Responsive UI`
-
-### 📊 Data & Analytics
-
-`ETL Pipelines` `Data Cleaning` `Data Modelling` `Apache Spark` `Analytics` `Dashboards`
-
-### ☁️ Cloud & DevOps
-
-`Google Cloud` `Docker` `Git` `GitHub` `CI/CD`
-
-### 🧪 Engineering Practices
-
-`SDLC` `Requirements Analysis` `Unit Testing` `Integration Testing` `API Testing` `UAT` `Technical Documentation`
-
----
-
-## 🚀 Selected Projects
-
-### 📋 Insurance Quote Management System
-
-An insurance platform designed to streamline quotation workflows and provide operational and analytical capabilities.
-
-**Capabilities**
-
-* Quote lifecycle management
-* Insurance analytics
-* Customer segmentation
-* Risk scoring
-* Predictive modelling
-* Reporting
-
-**Technology:** `Java` · `Spring Boot` · `React` · `TypeScript` · `MySQL` · `Python`
-
----
-
-### 🏦 Group/Chama Table Banking SaaS
-
-A digital platform for managing community savings groups and micro-loan operations for different groups with their own group operations modalities.
-
-**Capabilities**
-
-* Member onboarding
-* Group management
-* Savings and contribution tracking
-* Loan management
-* Financial records
-* Reporting and analytics
-* Tenant Onbording
-
-**Technology:** `Java` · `Spring Boot` · `React` · `MySQL` · `Google Cloud` `SaaS`
-
----
-
-### 👥 Member Welfare Data Platform
-A digital data platform for data management designed to streamline member registration, data cleaning and Storage for analytical use.
-
-**Capabilities**
-
-* Member registation service
-* Data management
-* Data Admin work flows
-* Role-based access control
-* Reporting
-
-**Technology:** `Java` · `Spring Boot` · `React` · `TypeScript` · `MySQL` · `Google Cloud`
-
----
-
-## 🔍 Current Focus
-
-I'm currently deepening my engineering skills across four areas:
-
-### Backend Engineering
-
-Distributed systems, microservices architecture, API design, Spring Security and production-ready backend development.
-
-### Frontend Engineering
-
-Component-driven React applications, TypeScript, state management, responsive interfaces and API integration.
-
-### Data Infrastructure
-
-Data pipelines, cloud data platforms, data warehousing, distributed processing and analytics.
-
-### Artificial Intelligence
-
-Machine Learning, Explainable AI, Responsible AI and practical applications of AI within software and business workflows.
-
----
-
-## 📅 2026 Roadmap
-
-### Technical
-
-* Build and deploy production-ready distributed applications
-* Strengthen cloud-native architecture and deployment practices
-* Improve CI/CD and software testing workflows
-* Build data platforms that support analytics and AI
-* Contribute to open-source projects
-* Explore AI-assisted software development practices
-
-### Mtaanisoft Technologies
-
-Continue building Mtaanisoft as a practical technology partner for businesses and organizations.
-
-> **Understand the problem. Design the system. Build the solution. Improve the workflow.**
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">   <img src="
-
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="165"/>   <img src="
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/> </p>
-
----
-
-## 🤝 Let's Collaborate
-
-I'm open to **contract opportunities, technical consulting and software projects** involving:
-
-* Full Stack Software Development
-* Business Process Digitalization
-* Workflow Automation
-* Data Systems & Analytics
-* API Development & System Integration
-* Software Testing & QA
-
-If you're building something and need technical support, feel free to reach out.
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/stevejj4">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stevejj4&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="stevejj4's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=stevejj4&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Stephen Juma's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=stevejj4&theme=radical&radius=10" alt="stevejj4's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="linkedin.com/in/stephen-juma-643211289"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Stephen Juma's LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:jumaomondi16@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Stephen Juma's Email"/></a>&nbsp;&nbsp;
+  <a href="https://www.mtaanisoft.co.ke/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+</p>
+
+## 💬 Quote
+> Technology should fit its context
 
 <p align="center">
-  <strong>📧 [jumaomondi16@gmail.com](mailto:jumaomondi16@gmail.com)</strong>
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
----
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-<p align="center">
-  <strong>Build systems. Improve workflows. Turn data into decisions.</strong>
-</p>
