@@ -8,14 +8,14 @@
 
 ## 📌 About Me
 - My work involves translating operational requirements into practical technology solutions, supporting software development and implementation, testing systems, troubleshooting production issues, managing data quality, training users, and documenting digital processes.
-- I am currently pursuing my Master's of Science in Artificial Inteligence with a keen interest in Insurance and affordable housing to support different type of income
+- I am currently pursuing my Master's of Science in Artificial Inteligence with a keen interest in Insurance and affordable housing model that support applicants different type of income modalities.
 
 
 ## 🧠 My Focus Areas
 - Strategic Vision & Process Optimization
 - Requirements & Data Governance
 - The Software Development Lifecycle (SDLC)
-- Rigorous System & User Testing
+- Rigorous System development & User Testing
 - Implementation, Adoption & Long-Term Support
 
 
