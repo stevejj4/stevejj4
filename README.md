@@ -1,5 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Stephen Juma</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Stephen%20Juma&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=stevejj4">
@@ -9,6 +8,7 @@
 
 ## 📌 About Me
 - My work involves translating operational requirements into practical technology solutions, supporting software development and implementation, testing systems, troubleshooting production issues, managing data quality, training users, and documenting digital processes.
+- I am currently pursuing my Master's of Science in Artificial Inteligence with a keen interest in Insurance and affordable housing to support different type of income
 
 
 ## 🧠 My Focus Areas
@@ -25,12 +25,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stevejj4&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="stevejj4's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=stevejj4&theme=radical&hide_border=true&cache_seconds=86400" alt="stevejj4's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=stevejj4&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Stephen Juma's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=stevejj4&theme=radical&radius=10" alt="stevejj4's Activity Graph" />
 </p>
 
 
@@ -93,14 +87,19 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="linkedin.com/in/stephen-juma-643211289"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Stephen Juma's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:jumaomondi16@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Stephen Juma's Email"/></a>&nbsp;&nbsp;
-  <a href="https://www.mtaanisoft.co.ke/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>&nbsp;&nbsp;
-  <a href="https://wa.me/254793658882"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="linkedin.com/in/stephen-juma-643211289">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/254793658882">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:jumaomondi16@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mtaanisoft.co.ke/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
 </p>
 
-## 💬 Quote
-> Technology should fit its context
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/https://www.mtaanisoft.co.ke/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
