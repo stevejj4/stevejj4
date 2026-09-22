@@ -6,6 +6,22 @@
   </a>
 </p>
 
+## 🔗 Connect with Me
+<p align="center">
+  <a href="linkedin.com/in/stephen-juma-643211289">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/254793658882">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:jumaomondi16@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mtaanisoft.co.ke/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
 ## 📌 About Me
 - My work involves translating operational requirements into practical technology solutions, supporting software development and implementation, testing systems, troubleshooting production issues, managing data quality, training users, and documenting digital processes.
 - I am currently pursuing my Master's of Science in Artificial Inteligence with a keen interest in Insurance and affordable housing model that support applicants different type of income modalities.
@@ -85,21 +101,5 @@
 
 </p>
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="linkedin.com/in/stephen-juma-643211289">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://wa.me/254793658882">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:jumaomondi16@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mtaanisoft.co.ke/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/https://www.mtaanisoft.co.ke/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
