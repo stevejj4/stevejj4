@@ -31,8 +31,10 @@
 - Strategic Vision & Process Optimization
 - Requirements & Data Governance
 - The Software Development Lifecycle (SDLC)
+- Design and Analysis of algorithms
 - Rigorous System development & User Testing
 - Implementation, Adoption & Long-Term Support
+- Machine Learning
 
 
 ## 📊 GitHub Stats & Trophies
