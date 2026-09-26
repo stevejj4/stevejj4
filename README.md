@@ -37,16 +37,6 @@
 - Machine Learning
 - Artificial Intelligence
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/stevejj4">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stevejj4&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="stevejj4's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=stevejj4&theme=radical&hide_border=true&cache_seconds=86400" alt="stevejj4's GitHub Streak" width="49%" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
@@ -103,6 +93,18 @@
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
 </p>
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/stevejj4">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stevejj4&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="stevejj4's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=stevejj4&theme=radical&hide_border=true&cache_seconds=86400" alt="stevejj4's GitHub Streak" width="49%" />
+</p>
+
+
+
 
 
 
