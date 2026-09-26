@@ -35,6 +35,7 @@
 - Rigorous System development & User Testing
 - Implementation, Adoption & Long-Term Support
 - Machine Learning
+- Artificial Intelligence
 
 
 ## 📊 GitHub Stats & Trophies
