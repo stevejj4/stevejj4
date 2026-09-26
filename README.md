@@ -24,7 +24,7 @@
 
 ## 📌 About Me
 - My work involves translating operational requirements into practical technology solutions, supporting software development and implementation, testing systems, troubleshooting production issues, managing data quality, training users, and documenting digital processes.
-- I am currently pursuing my Master's of Science in Artificial Inteligence with a keen interest in Insurance and affordable housing model that support applicants different type of income modalities.
+- I am currently pursuing my Master's of Science in Artificial Inteligence with a keen interest in developing algorithms for building Inteligent Systems.
 
 
 ## 🧠 My Focus Areas
