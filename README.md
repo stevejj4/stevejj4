@@ -34,7 +34,7 @@
 - Design and Analysis of algorithms
 - Rigorous System development & User Testing
 - Implementation, Adoption & Long-Term Support
-- Machine Learning
+- Building Machine Learning Algorithms
 - Artificial Intelligence
 
 ## 🛠️ Languages & Tools
