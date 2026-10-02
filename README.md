@@ -35,7 +35,7 @@
 - Rigorous System development & User Testing
 - Implementation, Adoption & Long-Term Support
 - Building Machine Learning Algorithms
-- Artificial Intelligence
+- Responsible Artificial Intelligence
 
 ## 🛠️ Languages & Tools
 
