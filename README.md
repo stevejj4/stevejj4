@@ -32,8 +32,11 @@
 - Requirements Gathering & Data Governance
 - The Software Development Lifecycle (SDLC)
 - Design and Analysis of algorithms
-- Rigorous System development & User Testing
+- Multicloud-Cloud Orchestration
+- Database migration and Schema Triage
+- System development & User Testing
 - Implementation, Adoption & Long-Term Support
+- Observability Engineering
 - Building Machine Learning Algorithms
 - Responsible Artificial Intelligence
 
