@@ -29,7 +29,7 @@
 
 ## 🧠 My Focus Areas
 - Strategic Vision & Process Optimization
-- Requirements Gathering & Data Governance
+- Requirements Gathering
 - The Software Development Lifecycle (SDLC)
 - Design and Analysis of algorithms
 - Multicloud-Cloud Orchestration
