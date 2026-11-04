@@ -30,11 +30,10 @@
 ## 🧠 My Focus Areas
 - Strategic Vision & Process Optimization
 - Requirements Gathering
-- The Software Development Lifecycle (SDLC)
+- Software Development Lifecycle (SDLC) Management
 - Design and Analysis of algorithms
 - Multicloud-Cloud Orchestration
 - Database migration and Schema Triage
-- System development & User Testing
 - Implementation, Adoption & Long-Term Support
 - Observability Engineering
 - Building Machine Learning Algorithms
