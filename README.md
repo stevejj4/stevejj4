@@ -33,7 +33,7 @@
 - Software Development Lifecycle (SDLC) Management
 - Design and Analysis of algorithms
 - Multicloud-Cloud Orchestration
-- Database migration and Schema Triage
+- Database migration
 - Implementation, Adoption & Long-Term Support
 - Observability Engineering
 - Building Machine Learning Algorithms
